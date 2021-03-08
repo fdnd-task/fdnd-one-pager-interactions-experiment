@@ -1,10 +1,10 @@
 ---
-title: "descriptive title"          # Same as repo name but with spaces and caps
-client: "The client name"           # Name of the client for this task
-description: "short description"    # Max. 280 characters in description
-semester: 1-4                       # Please choose only one semester
-sprint: 1-18                        # Please choose only one sprint
-support-level: 1-5                  # 1:example 2:duplicate 3:experiment 4:extension 5:autonomous
+title: "FDND huisstijl interactieve code regel"
+client: "FDND"
+description: "Voor de opdracht FDND-huisstijl-interactieve-code-regel ontwerp je op basis van de huisstijl van FDND interactieve code regels waarmee gebruikers kunnen spelen."
+semester: 1
+sprint: 4
+support-level: 3
 behavior-criteria:                  # These criteria determine the skill level of a task
   collaboration: 0-6                # compared to the whole curriculum on a 6 point scale.
   learning-capacity: 0-6            # Make sure you understand the levels before changing
